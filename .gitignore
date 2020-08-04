@@ -1,0 +1,4 @@
+/homework-week3/datasets/*
+/homework-week3/seq2seq_tf2/datasets/*
+*.class
+!/*.py
